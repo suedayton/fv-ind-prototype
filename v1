@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>family-view-indiegogo-v1</title>
+  <meta name="description" content="family-view-indiegogo-v1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+
+/* NOTE: inline css for indiegogo - no external css folder allowed
+================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=================================================*/
+body {
+    background-color: #ffffff;
+    color: #2a2a2a;
+    font-family: "Source Sans Pro","sans-serif";
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 620px;
+    margin: 0 20px 0 20px;
+}
+body>*:first-child {
+  margin-top: 0 !important;
+}
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+/* BLOCKS
+=================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  font-size: 42px;
+  color: #000;
+  line-height: 50px;
+  text-align:center;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: normal;
+  
+  margin-top: 30px;
+  color: rgb(188, 32, 75);
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: lighter;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=================================================*/
+
+a {
+  color: #bc204b;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+</style>
+</head>  
+  
+<body>
+  <h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;PREORDER FAMILY-VIEW TO GET IT THIS FALL AND HELP OTHER FAMILIES</span></h2>
+<h3><span style="font-family: 'Source Sans Pro', sans-serif;">Family-View is part of the HelpMEwell patient success system—designed to detect unexpected complications. It's designed to save lives.<span></h3> 
+  <p><span style="font-family: 'Source Sans Pro', sans-serif;">We're making Family-View so that every family can benefit from our technology to keep their parents well. No other service today can do anything like this. Help us bring Family-View to families in need by being one of the first supporters in this campaign.<span></p>
+      <h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;WHAT OUR FIRST USERS ARE SAYING<span></h2>
+
+  <img src="http://i.imgur.com/kQGyUmW.jpg" width=100% title="quote from first users of Family-View"/>
+
+  <h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;KEEP YOUR PARENTS HEALTHY AND SAVE LIVES</span></h2>
+
+  <p><span style="font-family: 'Source Sans Pro', sans-serif;">Family-View is designed to help our aging parents live independent lives. It makes it easy to help your loved ones no matter where you live, and helps you provide positive reinforcement. It's the modern way to see what's going on with your loved ones without having to ask them all the time.<span></p>         
+
+  <h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif; font-weight: lighter; text-align: center; padding: 5px 0px; background-color: rgb(188, 32, 75);"><span style="color: #ffffff">HelpMEwell Patient Success System</span></h2>
+  <h3 style="font-weight:lighter; margin-top: 10px"><span style="font-family: 'Source Sans Pro', sans-serif;">7 Roles with 1 Goal&#8213;Keeping your Parent Healthy</span></h3>
+  
+<p><span>HelpMEwell's secret sauce is the knowledge that when everyone is working with the same information, in this case patient-logged data, then the ability to manage chronic diseases and avert hospitalizations greatly increases.</span></p>
+      <p><span style="font-family: 'Source Sans Pro', sans-serif;">HelpMEwell has mulitple ways of logging to allow seniors who may be a little technically challenged to still log easily. Logging can be done via a phone call, texting (SMS), iPhone/iPad apps, or via our web-based apps&#8213;whichever is preferred, or even a combination of them. They don't need a smart phone or computer. They just need a home phone—the system can call them to log their health data.</span></p>
+    <img src="http://i.imgur.com/yiSoKgL.jpg" title="all the roles in HelpMEwell" width=100% />    
+    
+  <h3 style="font-weight:lighter; margin-top: 10px"><span style="font-family: 'Source Sans Pro', sans-serif;">The HelpMEwell&#8213;Family-View Experience</span></h3>
+
+
+  <p><span style="font-family: 'Source Sans Pro', sans-serif;">Your parents, or their caregivers, log information in HelpMEwell that their health providers ask them to track. This data goes immediately up to their account at HelpMEwell and is shared with all the care team that have permission from your parent.</p>
+
+<p><span style="font-family: 'Source Sans Pro', sans-serif;">If they have an out-of-range reading that triggers an alert, you and their doctors will get a notification. Catching these risk indicators early, before they turn into complications, keeps your parent healthier and reduces the risk of hospitalization.</span></p>
+     
+<img src="http://i.imgur.com/0A0HCPs.gif" width=100% align title="animated gif of helpmewell logging and showing in family view"/>    
+  <p><span style="font-family: 'Source Sans Pro', sans-serif;">The Family-View app is an easy to use technology that's simple and elegant for you. Your parent logs their data and that information is available to you immediately. You are an invaluable as part of the "sauce", both to lend encouragment and to pick up on any changes to activity levels or health signs before they become significant. </span></p> 
+  <p><span style="font-family: 'Source Sans Pro', sans-serif;">It gives you an early warning system that's connected. You have your parents close at hand always. </span></p> 
+     <h3 style="font-weight:lighter; margin-top: 10px"><span style="font-family: 'Source Sans Pro', sans-serif;">FAMILY-VIEW FEATURES</span></h3>
+  <ul><span style="font-family: 'Source Sans Pro', sans-serif;">
+  <li>View your parent's logged history, including medications</li>
+  <li>Track multiple family members</li>
+    <li>Call your parents from within the iPhone/iPad app, or from the web app if you're on an Apple product</li>
+    <li>Receive Alert/Alarm notifications (Plus version only)</li>
+    <li>Send your parents fun postcards from the app</li>
+    <li>Send health tips from vetted experts</li>
+    </span>
+  </ul>
+
+    <p><span style="font-family: 'Source Sans Pro', sans-serif;">This app will have a premium service with more features. All those who buy a Family-View app during Indiegogo will have six months of access to the Plus version, giving them access to notifications.</span></p> 
+    <h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;WHAT PATIENTS ARE SAYING<span></h2>
+
+  <img src="http://i.imgur.com/QRlH1JN.jpg" width=100% title="quote from patient"/>
+    
+<h3 style="font-weight:lighter; margin-top: 10px"><span style="font-family: 'Source Sans Pro', sans-serif;">Meet Ann and Peggy</span></h3>  
+
+<p><span style="font-family: 'Source Sans Pro', sans-serif;">Ann lives across the country from her mom Peggy who has type 2 diabetes and a heart condition. Every morning Peggy checks her blood glucose levels and resting heart rate and then quickly logs the numbers on HelpMEwell. She also logs how well she slept, and how many hours. Being able to comment on her quality of sleep lets that information be tracked, and patterns can then be seen with her other data. Her doctors have encouraged her to use frequent walks as a way of managing her blood glucose levels. Peggy wears an activity tracker and her patient advocate helped her set up her account so that all of her activity gets sent to HelpMEwell automatically from her Fitbit. She logs her food by typing in her own words what she's eaten. Her favorite meatloaf dish? The HelpMEwell app remembers it once it's been typed in once&#8213;so the next time she eats meatloaf, she has a button for it. Two taps and it's logged. Her daughter Ann can see everything that Peggy is logging, and now when Ann calls she already knows how her mom is doing. She can lend encouragement, or check up if she notices changes. It is the next best thing to being there.</span></p>
+
+    <h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;WHAT DOCTORS ARE SAYING<span></h2>
+
+  <img src="http://i.imgur.com/OSOEBId.jpg" width=100% title="quote from expert"/>
+<p><span style="font-family: 'Source Sans Pro', sans-serif;">Primary care doctors and specialists get the data from patients logging throughout the day in two ways as well. The doctors have a dashboard for each patient and  can see all the patients history for non-alert items. For alert items, the doctor responsible receives an alert when early warning signs are detected.</span></p>
+
+  <h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;HELP ANOTHER FAMILY</span></h2>
+
+<img src="http://i.imgur.com/r6ASRT4.jpg" title="life is why"/>
+<h3 style="font-weight:lighter; margin-top: 10px"><span style="font-family: 'Source Sans Pro', sans-serif;">We need your help and support to get this to needy families. Please help us put Family-View into the hands of those who need it the most.</span></h3>
+<p><span style="font-family: 'Source Sans Pro', sans-serif;">Due to the generosity of a group of donors that know HelpMEwell and its mission, the first 4000 family-View apps purchased by this campaign will be matched 1:1 and donated to the ??? Foundation for distribution to families who couldn't afford it otherwise.</span></p>
+<p><span style="font-family: 'Source Sans Pro', sans-serif;">Together we can make a difference in the lives of 65 million families who's parents have four or more chronic diseases.</span></p>
+  <p><span style="font-family: 'Source Sans Pro', sans-serif;">Your loved ones get HelpMEwell to log their data&#8213;you get Family-View to keep them healthy&#8213;and a family in need gets both. Everyone gets more time to spend with their families because of you!</span></p>
+
+
+ 
+<h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;SECURE TECHNOLOGY</span></h2> Our technology partners are the best in the business, creating robust and scalable systems and making sure our loved ones data is secure and safe.
+    <img src="http://i.imgur.com/Rum0K2H.jpg" title="collaboration" >
+<p><span style="font-family: 'Source Sans Pro', sans-serif;">We take a great deal of care into protecting your personal information. The data is ultra secure and private, with state of the art encryption.</span></p>
+<p><span style="font-family: 'Source Sans Pro', sans-serif;">We think data about yourself should be owned by you. We might ask your parent to allow their data to be used to improve research and benefit science, but every system will be opt-in and your parent can choose freely to participate or not.</span></p>
+
+<h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;USE OF FUNDS</span></h2>
+<p><span style="font-family: 'Source Sans Pro', sans-serif;">Your contribution will make this Family-View a reality AND will help people living with chronic disease!</span></p>
+<img src="http://i.imgur.com/dnQD6Qv.jpg" title="perks"/>
+ 
+  <h2 style="font-weight: lighter; text-align: center; padding: 5px 0px; background-color: rgb(188, 32, 75);"><span style="color: #ffffff">ABOUT</span></h2>
+<h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;OUR TEAM</span></h2>
+  <p><span style="font-family: 'Source Sans Pro', sans-serif;">We are an ultra passionate team, based in Santa Cruz, California (USA).</span></p>
+<img src="http://i.imgur.com/86MeI2W.jpg" title="team members" />
+<img src="http://i.imgur.com/iJC5ui3.jpg" title="the HelpMEwell team wearing our activity trackers" />
+
+  <h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px; "><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;OUR STORY</span></h2>
+<img src="http://i.imgur.com/4LkWGPM.png" title="HelpMEwell timeline"/>
+<p><span style="font-family: 'Source Sans Pro', sans-serif;">Our passion for this project and Family-View comes from the loss of Bruno's sister Pam three years ago due to complications from heart failure. Her death was avoidable. If Family-View and HelpMEwell had existed, alerting Bruno, and Pam's doctor of her complications at home, they would have been able to provide interventions, and she would be alive today.</span></p>
+<p><span style="font-family: 'Source Sans Pro', sans-serif;">We've been working on this for several years now, and we deeply believe that we can help keep your parent healthier and more independent. We've talked with a lot of seniors and their families as we've developed the HelpMEwell system, and the number one message that comes across is autonomy. Your parents want to be independent. So staying on top of their health is paramount. It's our mission to help them.</span></p>      
+      
+  <h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;MILESTONES</span></h2> We are well on our way to building this  product and expect to have it ready in time for fall with your help.
+  <p><span style="font-family: 'Source Sans Pro', sans-serif;"</span></p>
+<img src="http://i.imgur.com/Tgo1RwK.png" title="Family-View milestones"/>
+
+
+<h2 style="border-top: 1px solid #bc204b;font-family: 'Source Sans Pro', sans-serif;"><span style="font-size: 28px;font-weight: normal; color: rgb(188, 32, 75); margin-top:10px;"><img src="http://i.imgur.com/NOHADul.png" height=22px width=22px/>&nbsp;&nbsp;FAQ</span></h2>
+
+
+<h4 style="color: rgb(188, 32, 75); padding: 5px 0px; "><span style="font-family: 'Source Sans Pro', sans-serif;">APPS</span></h4>
+  <dl>
+    <dt>Which apps are included?</dt>
+<dd>HelpMEwell (patient app – with 6 months of premium service) and Family-View.</dd>
+<dt>What are the differences between the HelpMEwell and Family-View apps?</dt>
+<dd>HelpMEwell is the patient logging app, and Family-View is for the adult children of the patient to view their parent's logged data, recieve alerts, and provide encouragement.</dd>
+<dt>What is the Plus service about?</dt>
+<dd>It’s a service related to the alerts and alarms.</dd>
+<dt>Which phones and tablets work with Family-View? Will this app be available for iPad?</dt>
+<dd>The Family-View apps will run on any iOS device that can run iOS7 or higher. That includes iPad 4, iPad air, and all iPad mini. It works with all the iPhones from the 4S to the newest ones. It also works with iPod touch 5th generation. Moreover our web-based version works with the Android systems from version 4.4 on up, as long as they have internet connectivity.</dd>
+</dl>
+
+<h4 style="color: rgb(188, 32, 75); padding: 5px 0px; "><span style="font-family: 'Source Sans Pro', sans-serif;">BUY ONE GIVE ONE</span></h4>
+<dl><span style="font-family: 'Source Sans Pro', sans-serif;">
+<dt>Am I eligible for a free HelpMEwell app for my parent? Is there a partnership or scholarship program for adults with chronic disease?</dt>
+<dd>We will give the donated HelpMEwell and Family-View apps to the ??? foundation that will be responsible for distributing them to people in need. Please make sure to contact them to discover the eligibility criteria.</dd>
+  </span></dl>
+
+</body>
+</html>
